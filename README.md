@@ -17,3 +17,9 @@ Prediction using Decision Tree  Algorithm :
 Create the Decision Tree classifier and visualize it graphically. 
 
 The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly. 
+
+Exploratory Data Analysis on Dataset - Terrorism 
+
+As a security/defense analyst, try to find out the hot zone of terrorism.
+
+Dataset: https://bit.ly/2TK5Xn5
